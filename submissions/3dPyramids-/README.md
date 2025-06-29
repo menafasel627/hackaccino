@@ -1,12 +1,11 @@
 
 ### Author name  
-Author:Menna yaser
+Author:Menna fesal
 ### Website Name  
 Name: 3dPyramids
 
 ### Live Website URL  
-**Link:** [egyptian-pyramids demo](https://your-live-demo-link.com)  
-*(Replace with real link if hosted)*
+Link: https://menafasel627.github.io/3dPyramids-/
 
 ### Code  
 GitHub Link: https://github.com/menafasel627/3dPyramids-
